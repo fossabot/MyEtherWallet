@@ -9,6 +9,7 @@
 MyEtherWallet is a doorway to the Ethereum blockchain, allowing users to manage their own funds without a centralized platform. - <i>Stephen, #MEWForce</i>
 
 !["MyEtherWallet Logo](./src/assets/images/backgrounds/bg-homepage-spaceman.svg "MyEtherWallet")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FMyEtherWallet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FMyEtherWallet?ref=badge_shield)
 
 ## Philosophy
 
@@ -123,3 +124,7 @@ Example output:
 
 The warning is normal since you haven't marked the `MEW-PUP-KEY-GPG` key as "trusted" in your GPG keyring.\
 You can ignore the warning or add it to your trusted keys in your GPG keyring
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FMyEtherWallet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FMyEtherWallet?ref=badge_large)
